@@ -3,4 +3,4 @@
  */
 
 angular
-    .module('app',['ui.bootstrap']);
+    .module('todo',[]);
